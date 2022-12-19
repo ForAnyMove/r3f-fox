@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r3f-fox/static/css/main.78b1a243.css",
+    "main.js": "/r3f-fox/static/js/main.4c05f1c5.js",
+    "index.html": "/r3f-fox/index.html",
+    "main.78b1a243.css.map": "/r3f-fox/static/css/main.78b1a243.css.map",
+    "main.4c05f1c5.js.map": "/r3f-fox/static/js/main.4c05f1c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b1a243.css",
+    "static/js/main.4c05f1c5.js"
+  ]
+}
